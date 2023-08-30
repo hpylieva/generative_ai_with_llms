@@ -1,3 +1,3 @@
-# Generative AI with Large Language Models Course Notebooks
+# Some notebooks with LLMs usecases
 
 
